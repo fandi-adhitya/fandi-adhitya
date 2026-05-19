@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left">
-<a href="https://github.com/tukangk3tik">
+<a href="https://github.com/fandi-adhitya">
   <img height="180em" src="https://streak-stats.demolab.com?user=fandi-adhitya&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fandi-adhitya&layout=compact&langs_count=10&theme=algolia&hide=css,html"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fandi-adhitya&layout=compact&langs_count=10&theme=radical&hide=css,html"/>
 </a>
 </p>
