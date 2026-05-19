@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![GitHub Streak](https://streak-stats.demolab.com?user=fandi-adhitya&theme=radical)
+<p align="left">
+<a href="https://github.com/tukangk3tik">
+  <img height="180em" src="https://streak-stats.demolab.com?user=fandi-adhitya&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fandi-adhitya&layout=compact&langs_count=10&theme=algolia&hide=css,html"/>
+</a>
+</p>
