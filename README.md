@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <p align="left">
 <a href="https://github.com/fandi-adhitya">
-  <img height="180em" src="https://streak-stats.demolab.com?user=fandi-adhitya&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fandi-adhitya&layout=compact&langs_count=10&theme=github_dark&hide=css,html"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=fandi-adhitya&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fandi-adhitya&layout=compact&langs_count=10&theme=highcontrast&hide=css,html"/>
 </a>
 </p>
